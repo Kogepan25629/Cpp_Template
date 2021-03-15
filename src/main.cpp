@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "アホ\n";
+    std::cout << "Template!!!\n";
     std::cout << "";
 
     return 0;
