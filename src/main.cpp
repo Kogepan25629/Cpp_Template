@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Template!!!!!wa!\n";
+    std::cout << "Template!\n";
     std::cout << "";
 
     return 0;
