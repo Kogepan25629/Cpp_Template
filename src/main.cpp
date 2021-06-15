@@ -2,8 +2,7 @@
 
 int main()
 {
-    std::cout << "Template!\n";
-    std::cout << "";
+    std::cout << "Template!\n" << std::endl;
 
     return 0;
 }
