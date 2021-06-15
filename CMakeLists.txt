@@ -1,4 +1,4 @@
-set(PROJECT_NAME R_RPG)
+set(PROJECT_NAME ProjectNameDefault CACHE STRING "ProjectName")
 project(${PROJECT_NAME} CXX)
 
 cmake_minimum_required(VERSION 3.16)
